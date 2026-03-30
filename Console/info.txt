@@ -1,0 +1,6 @@
+name: Console
+description: <align=center>Команда !console открывает консоль. ТГ:https://t.me/Gap_Zip ДС:https://discord.gg/HeqeVB8veH
+unloader: false
+version:хз
+safeMode: true
+active:true
